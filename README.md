@@ -1,7 +1,5 @@
 # APP con Modelo Vista Controlador
 
-Siguiendo un tutorial de Jairo García (source https://www.jairogarciarincon.com/clase/creacion-de-un-cms-desde-cero-con-patron-mvc )
-
 1. En la terminal de Laragon creamos las carpetas del proyecto, atomizando cada una de las partes del mismo.
    
 2. Creamos una Base de Datos con MySql.
@@ -59,6 +57,7 @@ Siguiendo un tutorial de Jairo García (source https://www.jairogarciarincon.com
 ![Home](https://i.ibb.co/0GXBpXk/MVC-HP-01.png)
 ![](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
 ![](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
-![](https://i.ibb.co/0GXBpXk/MVC-HP-04.png)
+![](https://i.ibb.co/8N9qnMt/MVC-HP-04.png)
 
 
+    
