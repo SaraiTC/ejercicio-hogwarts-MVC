@@ -1,5 +1,7 @@
 # APP con Modelo Vista Controlador
 
+## Pasos
+
 1. En la terminal de Laragon creamos las carpetas del proyecto, atomizando cada una de las partes del mismo.
    
 2. Creamos una Base de Datos con MySql.
