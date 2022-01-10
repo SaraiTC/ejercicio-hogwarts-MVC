@@ -51,4 +51,12 @@
 8. Añadimos contenido a acerca-de, noticia y noticias.
 
 9. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
-    
+
+## Capturas
+
+![Home](https://i.ibb.co/0GXBpXk/MVC-HP-01.png)
+![](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
+![](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
+![](https://i.ibb.co/0GXBpXk/MVC-HP-04.png)
+
+
