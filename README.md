@@ -57,9 +57,9 @@
 ## Capturas
 
 ![Home](https://i.ibb.co/0GXBpXk/MVC-HP-01.png)
-![](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
-![](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
-![](https://i.ibb.co/8N9qnMt/MVC-HP-04.png)
+![Noticias](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
+![About](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
+![Admin](https://i.ibb.co/8N9qnMt/MVC-HP-04.png)
 
 
     
