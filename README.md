@@ -1,5 +1,7 @@
 # APP con Modelo Vista Controlador
 
+Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cms-desde-cero-con-patron-mvc
+
 ## Pasos
 
 1. En la terminal de Laragon creamos las carpetas del proyecto, atomizando cada una de las partes del mismo.
