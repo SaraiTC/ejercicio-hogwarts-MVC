@@ -56,7 +56,42 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
    
 9. Añadimos una entrada extra a la sección de noticias utilizando php/myadmin.
 
-10. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
+10. Creación de contacto.php para crear una nueva página dentro de la APP y modificación del archivo header.php para incluir la página en el menú de navegación.
+
+11. En AppController.php creamos la función:
+    
+     public function contacto(){
+
+        //Llamo a la vista
+        $this->view->vista("app", "contacto");
+
+    }
+
+12. En el index.php contenido en public añadimos lo siguiente:
+    
+    switch ($ruta){
+
+    //Front-end
+    case "":
+    case "":
+        controller()->index();
+        break;
+    case "acerca-de":
+        controller()->acercade();
+        break;
+    case "contacto":
+        controller()->contacto();
+        break;
+    case "noticias":
+        controller()->noticias();
+        break;
+    case (strpos($ruta,"noticia/") === 0):
+        controller()->noticia(str_replace("noticia/","",$ruta));
+        break;
+
+para crear el caso que se ejecuta cuando la persona usuaria clicka en el apartado Contacto del Header.
+
+13. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
 
 ## Capturas
 
