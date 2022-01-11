@@ -112,6 +112,11 @@ article .card-info{
     margin-left: 0.5rem;
 }
 
+.card.horizontal.admin img{
+    height: 3rem;
+    margin: 1.5rem 0 0 2rem;
+}
+
 .toast{
     background-color: transparent;
     border: none;
