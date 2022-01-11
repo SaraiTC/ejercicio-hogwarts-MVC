@@ -58,7 +58,7 @@
 
 ## Capturas
 
-![Home](https://i.ibb.co/0GXBpXk/MVC-HP-01.png)
+![Home](https://i.ibb.co/dr3gbHC/Fire-Shot-Capture-023-Noticias-de-Harry-Potter-ejercicio-mvc-test.png)
 ![Noticias](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
 ![About](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
 ![Admin](https://i.ibb.co/8N9qnMt/MVC-HP-04.png)
