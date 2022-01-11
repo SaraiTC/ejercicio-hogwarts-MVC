@@ -51,8 +51,10 @@
 7. Añadimos contenido al index.php dentro de view/app.
 
 8. Añadimos contenido a acerca-de, noticia y noticias.
+   
+9. Añadimos una entrada extra a la sección de noticias utilizando php/myadmin.
 
-9. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
+10. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
 
 ## Capturas
 
