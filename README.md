@@ -54,7 +54,11 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
 
 8. Añadimos contenido a acerca-de, noticia y noticias.
    
-9. Añadimos una entrada extra a la sección de noticias utilizando php/myadmin.
+9. Añadimos una entrada extra a la sección de noticias utilizando el panel de administración:
+
+![Panel admin](https://i.ibb.co/m9JWBQM/panel-admin.png)
+![Noticias admin](https://i.ibb.co/HFf6q0Z/noticias-admin.png)
+
 
 10. Creación de contacto.php para crear una nueva página dentro de la APP y modificación del archivo header.php para incluir la página en el menú de navegación.
 
@@ -91,7 +95,7 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
 
 para crear el caso que se ejecuta cuando la persona usuaria clicka en el apartado Contacto del Header.
 
-13. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página!
+13. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página con Frontend y Backend!
 
 ## Capturas
 
