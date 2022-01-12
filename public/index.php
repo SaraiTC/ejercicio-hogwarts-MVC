@@ -61,7 +61,7 @@ switch ($ruta){
 
     //Front-end
     case "":
-    case "":
+    case "/":
         controller()->index();
         break;
     case "acerca-de":

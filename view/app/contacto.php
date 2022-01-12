@@ -2,12 +2,19 @@
     <a href="<?php echo $_SESSION['home'] ?>" title="Inicio">Inicio</a> <span>| Contacto</span>
 </h3>
 <div class="row">
-    <i class="large material-icons">info_outline</i>
-    <p>
-        Esta página muestra noticias relacionadas con el universo de Harry Potter.
-    </p>
-    <p>
-        Está desarrollada en PHP con Programación orientada a Objetos, siguiendo el patrón Modelo Vista Controlador y
-        utiliza MySQL para la persistencia de datos.
-    </p>
+  <div class="form-wrapper" id="myForm">
+            <div class="form-popup">
+                <form action="" class="form-container">
+                    <h4>Regístrate</h4>
+                    <div class="position-form">
+                        <label for="email"><b>Nombre</b></label>
+                        <input type="text" placeholder="Tu nombre" name="name" required><br>
+
+                        <label for="psw"><b>Email&nbsp;&nbsp;&nbsp;&nbsp;</b></label>
+                        <input type="email" placeholder="Tu email" name="email" required><br>
+                       
+                        <button type="submit" class="btn">ENVIAR</button>
+                    </div>
+
+                </form>
 </div>

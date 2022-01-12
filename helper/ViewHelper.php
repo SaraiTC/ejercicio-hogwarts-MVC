@@ -18,7 +18,7 @@ class ViewHelper {
 
     public function redireccionConMensaje($ruta, $tipo, $texto){
 
-        $_SESSION['mensaxe'] = array("tipo" => $tipo, "texto" => $texto);
+        $_SESSION['mensaje'] = array("tipo" => $tipo, "texto" => $texto);
         header("Location:".$_SESSION["home"].$ruta);
 
     }
