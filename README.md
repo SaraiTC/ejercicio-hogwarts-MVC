@@ -6,9 +6,9 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
 
 1. En la terminal de Laragon creamos las carpetas del proyecto, atomizando cada una de las partes del mismo.
    
-2. Creamos una Base de Datos con MySql.
+2. Creamos una Base de Datos con MySql mediante la terminal de Laragon.
    
-3. Introducimos contenido en la BBDD:
+3. Introducimos contenido en la BBDD mediante la terminal de Laragon:
    
    a) TABLA USUARIOS
 
@@ -77,7 +77,7 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
 
     //Front-end
     case "":
-    case "":
+    case "/":
         controller()->index();
         break;
     case "acerca-de":
@@ -97,7 +97,7 @@ para crear el caso que se ejecuta cuando la persona usuaria clicka en el apartad
 
 13. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página con Frontend y Backend!
 
-## Capturas
+## Capturas del resultado final:
 
 ![Home](https://i.ibb.co/dr3gbHC/Fire-Shot-Capture-023-Noticias-de-Harry-Potter-ejercicio-mvc-test.png)
 ![Noticias](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
