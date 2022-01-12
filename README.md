@@ -1,6 +1,5 @@
 # APP con Modelo Vista Controlador
 
-Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cms-desde-cero-con-patron-mvc
 
 ## Pasos
 
@@ -65,10 +64,8 @@ Siguiendo el tutorial: https://www.jairogarciarincon.com/clase/creacion-de-un-cm
 11. En AppController.php creamos la función:
     
      public function contacto(){
-
         //Llamo a la vista
         $this->view->vista("app", "contacto");
-
     }
 
 12. En el index.php contenido en public añadimos lo siguiente:
