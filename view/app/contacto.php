@@ -9,22 +9,22 @@
 <body>
 
     <form id="regForm" action="/action_page.php">
-        <h1>Register:</h1>
+        <h1>Regístrate</h1>
         <!-- One "tab" for each step in the form: -->
-        <div class="tab">Name:
-            <p><input placeholder="First name..." oninput="this.className = ''" name="fname"></p>
-            <p><input placeholder="Last name..." oninput="this.className = ''" name="lname"></p>
+        <div class="tab">Nombre:
+            <p><input placeholder="Nombre..." oninput="this.className = ''" name="fname"></p>
+            <p><input placeholder="Apellidos..." oninput="this.className = ''" name="lname"></p>
         </div>
-        <div class="tab">Contact Info:
+        <div class="tab">Información de contacto:
             <p><input placeholder="E-mail..." oninput="this.className = ''" name="email"></p>
-            <p><input placeholder="Phone..." oninput="this.className = ''" name="phone"></p>
+            <p><input placeholder="Teléfono..." oninput="this.className = ''" name="phone"></p>
         </div>
-        <div class="tab">Birthday:
+        <div class="tab">Fecha de nacimiento:
             <p><input placeholder="dd" oninput="this.className = ''" name="dd"></p>
             <p><input placeholder="mm" oninput="this.className = ''" name="nn"></p>
             <p><input placeholder="yyyy" oninput="this.className = ''" name="yyyy"></p>
         </div>
-        <div class="tab">Login Info:
+        <div class="tab">Información de registro:
             <p><input placeholder="Username..." oninput="this.className = ''" name="uname"></p>
             <p><input placeholder="Password..." oninput="this.className = ''" name="pword" type="password"></p>
         </div>

@@ -93,7 +93,12 @@
 
 para crear el caso que se ejecuta cuando la persona usuaria clicka en el apartado Contacto del Header.
 
-13. Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página con Frontend y Backend!
+13. Modificamos el archivo contacto.php para introducir el siguiente formulario (https://www.w3schools.com/howto/howto_js_form_steps.asp) y creamos dentro de la carpeta de public/css un archivo contacto.css y dentro de la carpeta de public/js un archivo contacto.js
+
+![Formulario con js](https://i.ibb.co/9wTFYGh/registro-con-formulario.png)
+
+
+14.  Finalmente, ejecutamos el ejercicio con Laragon y ¡ya tenemos nuestra página con Frontend y Backend!
 
 ## Capturas del resultado final:
 
