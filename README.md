@@ -57,6 +57,7 @@
 
 ![Panel admin](https://i.ibb.co/m9JWBQM/panel-admin.png)
 ![Noticias admin](https://i.ibb.co/HFf6q0Z/noticias-admin.png)
+![Edición admin](https://i.ibb.co/HFf6q0Z/noticias-admin.png)
 
 
 10. Creación de contacto.php para crear una nueva página dentro de la APP y modificación del archivo header.php para incluir la página en el menú de navegación.
