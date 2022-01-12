@@ -98,6 +98,8 @@ para crear el caso que se ejecuta cuando la persona usuaria clicka en el apartad
 
 ![Home](https://i.ibb.co/dr3gbHC/Fire-Shot-Capture-023-Noticias-de-Harry-Potter-ejercicio-mvc-test.png)
 ![Noticias](https://i.ibb.co/Js0YT5j/MVC-HP-02.png)
+![Noticia1](https://i.ibb.co/g70v5zQ/gryffindor.png)
+![Noticia2](https://i.ibb.co/Mp7q3vb/snitch.png)
 ![About](https://i.ibb.co/rmTbmcW/MVC-HP-03.png)
 ![Admin](https://i.ibb.co/8N9qnMt/MVC-HP-04.png)
 
